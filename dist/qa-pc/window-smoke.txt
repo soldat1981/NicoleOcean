@@ -1,0 +1,1 @@
+PASS: native window, keyboard and mouse movement, mouse release, pause, resize, rendering, close/save

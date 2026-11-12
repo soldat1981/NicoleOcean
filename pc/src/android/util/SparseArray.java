@@ -1,0 +1,1 @@
+package android.util;public class SparseArray<T> {private final java.util.HashMap<Integer,T> map=new java.util.HashMap<>();public T get(int key){return map.get(key);}public void put(int key,T v){map.put(key,v);}}

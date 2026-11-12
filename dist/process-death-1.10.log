@@ -1,0 +1,4 @@
+INSTRUMENTATION_STATUS: step=started
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_RESULT: result=PASS: After force-stop exact hero, rewards and interrupted Bossi visit survived.
+INSTRUMENTATION_CODE: -1

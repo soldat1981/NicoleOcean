@@ -1,0 +1,20 @@
+INSTRUMENTATION_STATUS: step=started
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_RESULT: result=PASS: After force-stop exact hero, rewards and interrupted Bossi visit survived.
+INSTRUMENTATION_CODE: -1
+INSTRUMENTATION_STATUS: step=started
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_RESULT: result=PASS: Active anchor seeded for process-death check.
+INSTRUMENTATION_CODE: -1
+INSTRUMENTATION_STATUS: step=started
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_RESULT: result=PASS: After force-stop falling anchor and hero restored exactly.
+INSTRUMENTATION_CODE: -1
+INSTRUMENTATION_STATUS: step=started
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_RESULT: result=PASS: Painted checkpoint seeded.
+INSTRUMENTATION_CODE: -1
+INSTRUMENTATION_STATUS: step=started
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_RESULT: result=PASS: Round, failure streak and custom multi-part paint survived force-stop.
+INSTRUMENTATION_CODE: -1

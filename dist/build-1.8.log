@@ -1,0 +1,24 @@
+PASS: 170622 assertions; contact, density, combat, events, growth, exact resume; 20 minutes game simulation + 50 minutes visitor schedule.
+PASS: 1170264 audit assertions; 108 seeded one-minute runs, refresh-rate equivalence, save corruption, invalid inputs and swept pickups.
+PASS: 307 player-feedback regressions
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+package: name='com.nicole.ocean' versionCode='9' versionName='1.8.0' platformBuildVersionName='15' platformBuildVersionCode='35' compileSdkVersion='35' compileSdkVersionCodename='15'
+sdkVersion:'26'
+targetSdkVersion:'35'
+application-label:'Океан Николь'
+application-icon-160:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application-icon-65534:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application-icon-65535:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application: label='Океан Николь' icon='res/mipmap-anydpi-v26/nicole_launcher.xml'
+
+Algorithm : SHA256
+Hash      : D35F61FCA3E3280F1E1823BF8CA63CDD3597B9DD39F604134DCEF456B66BCA4F
+Path      : C:\Users\solda\Documents\ChatGPT\Fish Game\dist\NicoleOcean.apk
+

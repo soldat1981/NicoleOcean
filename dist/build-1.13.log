@@ -1,0 +1,25 @@
+Note: C:\Users\solda\Documents\ChatGPT\Fish Game\app\src\com\nicole\ocean\MainActivity.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+OceanRulesTest PASS: 118032 assertions; all 60 oceans, progression, 56 forms, guardians, bonuses, saves and Bossi
+PASS: 7799432 audit assertions; 720 seeded one-minute runs, refresh-rate equivalence, save corruption, invalid inputs and swept pickups.
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+package: name='com.nicole.ocean' versionCode='14' versionName='1.13.0' platformBuildVersionName='15' platformBuildVersionCode='35' compileSdkVersion='35' compileSdkVersionCodename='15'
+sdkVersion:'26'
+targetSdkVersion:'35'
+application-label:'Океан Николь'
+application-icon-160:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application-icon-65534:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application-icon-65535:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application: label='Океан Николь' icon='res/mipmap-anydpi-v26/nicole_launcher.xml'
+
+Algorithm : SHA256
+Hash      : 95DCE06BFF68BFF8650B7D5B86A4B6C05A54B9D2AC403AA04CD7AD82B09CC583
+Path      : C:\Users\solda\Documents\ChatGPT\Fish Game\dist\NicoleOcean.apk
+

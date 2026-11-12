@@ -1,0 +1,29 @@
+Note: C:\Users\solda\Documents\ChatGPT\Fish Game\app\src\com\nicole\ocean\MainActivity.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+PASS: 173684 assertions; contact, density, combat, events, growth, exact resume; 20 minutes game simulation + 50 minutes visitor schedule.
+PASS: 1171208 audit assertions; 108 seeded one-minute runs, refresh-rate equivalence, save corruption, invalid inputs and swept pickups.
+PASS: 1315 player-feedback regressions
+PASS: 64828 surprise and event assertions; 11 types, 99 saved simulations, 3 shuffled bags, cadence 15 -> 28 per 10 minutes
+StageBalanceTest: 14165 assertions passed
+ExpeditionTest: 81580 assertions passed; 45 guardians, five powers, migration and deterministic resumes
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+package: name='com.nicole.ocean' versionCode='13' versionName='1.12.0' platformBuildVersionName='15' platformBuildVersionCode='35' compileSdkVersion='35' compileSdkVersionCodename='15'
+sdkVersion:'26'
+targetSdkVersion:'35'
+application-label:'Океан Николь'
+application-icon-160:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application-icon-65534:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application-icon-65535:'res/mipmap-anydpi-v26/nicole_launcher.xml'
+application: label='Океан Николь' icon='res/mipmap-anydpi-v26/nicole_launcher.xml'
+
+Algorithm : SHA256
+Hash      : A582637A8ABB0AABABB08178A13E86077C4C8B0A5E6885577A178ADF54FE2B87
+Path      : C:\Users\solda\Documents\ChatGPT\Fish Game\dist\NicoleOcean.apk
+

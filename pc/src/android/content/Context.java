@@ -1,0 +1,3 @@
+package android.content;
+import java.io.*;import java.nio.file.*;
+public class Context {private final android.content.res.Resources resources=new android.content.res.Resources();public File getFilesDir(){String override=System.getProperty("ocean.saveDir");String local=System.getenv("LOCALAPPDATA");File dir=new File(override!=null?override:(local!=null?local:System.getProperty("user.home"))+"/NicoleOceanPC");if(!dir.isDirectory()&&!dir.mkdirs())throw new IllegalStateException("Cannot create save folder: "+dir);return dir;}public String getPackageName(){return "com.nicole.ocean";}public android.content.res.Resources getResources(){return resources;}}

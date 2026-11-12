@@ -1,0 +1,22 @@
+Performing Streamed Install
+Success
+Performing Streamed Install
+Success
+INSTRUMENTATION_STATUS: step=started
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: step=disk checks and 100 queued saves passed; launching activity
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: step=activity launched
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: step=base screenshots captured; checking audio
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: step=audio decoded; capturing cat variants
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: step=capturing Nicole backgrounds and evolved characters
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: step=28 screen/size layouts, touch targets, scrolling, release and cancellation passed
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: step=continuous render passed: 38 frames in 3 seconds
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_RESULT: result=PASS: Android atomic disk save, corrupt-slot recovery, cold-load pause and exact hero restoration.
+INSTRUMENTATION_CODE: -1

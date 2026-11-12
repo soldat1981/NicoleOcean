@@ -1,0 +1,20 @@
+{
+  "bytes": 51191155,
+  "desktopChecks": 171,
+  "package": "com.nicole.ocean",
+  "versionCode": 17,
+  "modelAssertions": 8011484,
+  "pcSha256": "8166E67907FF7CA08957F35A504C77E5A2CEB3871C404E11E1228F20844F581E",
+  "version": "1.16.0",
+  "video": "reef-video/Home-Reef-Progression.mp4",
+  "assetTests": "PASS: 5",
+  "videoSeconds": 88,
+  "forms": 56,
+  "oceans": 60,
+  "saveVersion": 13,
+  "pcBytes": 79023855,
+  "date": "2026-10-30",
+  "ios": "Plan only: no Mac available",
+  "sha256": "51D94626E7E5EB66EA1D28B4E0B38959A44791A367C54139942DD85223FCA094",
+  "android": "PASS: emulator reef and process-death tests"
+}

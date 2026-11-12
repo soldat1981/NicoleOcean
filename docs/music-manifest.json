@@ -1,0 +1,82 @@
+[
+  {
+    "file": "ocean_01.wav",
+    "title": "Тихая лагуна",
+    "bpm": 60,
+    "seconds": 69.0,
+    "rms": 0.1667,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_02.wav",
+    "title": "Жемчужный свет",
+    "bpm": 57,
+    "seconds": 72.37,
+    "rms": 0.1615,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_03.wav",
+    "title": "Сон кораллов",
+    "bpm": 54,
+    "seconds": 76.11,
+    "rms": 0.1574,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_04.wav",
+    "title": "Голубые качели",
+    "bpm": 62,
+    "seconds": 66.94,
+    "rms": 0.162,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_05.wav",
+    "title": "Лунная вода",
+    "bpm": 56,
+    "seconds": 73.57,
+    "rms": 0.165,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_06.wav",
+    "title": "Дельфиний сон",
+    "bpm": 64,
+    "seconds": 65.0,
+    "rms": 0.1556,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_07.wav",
+    "title": "Сад медуз",
+    "bpm": 52,
+    "seconds": 78.85,
+    "rms": 0.1654,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_08.wav",
+    "title": "Письмо океана",
+    "bpm": 59,
+    "seconds": 70.08,
+    "rms": 0.1508,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_09.wav",
+    "title": "Тёплое течение",
+    "bpm": 61,
+    "seconds": 67.95,
+    "rms": 0.1643,
+    "peak": 0.69
+  },
+  {
+    "file": "ocean_10.wav",
+    "title": "Звёзды под водой",
+    "bpm": 55,
+    "seconds": 74.82,
+    "rms": 0.1601,
+    "peak": 0.69
+  }
+]

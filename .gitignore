@@ -1,0 +1,6 @@
+.tools/
+build/
+.signing/
+*.class
+*.idsig
+

@@ -1,0 +1,272 @@
+[
+  {
+    "file": "app/assets/audio/bossi_away.wav",
+    "seconds": 3.179,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.4628,
+    "rms": 0.04679,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/bossi_food.wav",
+    "seconds": 2.769,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.45395,
+    "rms": 0.04127,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/bossi_meow.wav",
+    "seconds": 1.12,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.63998,
+    "rms": 0.24127,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/bossi_meow2.wav",
+    "seconds": 1.32,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.63998,
+    "rms": 0.24667,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/bossi_meow3.wav",
+    "seconds": 0.98,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.63998,
+    "rms": 0.26259,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/bossi_no.wav",
+    "seconds": 2.259,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.3779,
+    "rms": 0.03768,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/dash.wav",
+    "seconds": 0.32,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.49268,
+    "rms": 0.08921,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/eat0.wav",
+    "seconds": 0.32,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.42081,
+    "rms": 0.07865,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/eat1.wav",
+    "seconds": 0.36,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.41403,
+    "rms": 0.07396,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/eat2.wav",
+    "seconds": 0.3,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.42352,
+    "rms": 0.08131,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/growth.wav",
+    "seconds": 0.85,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.28098,
+    "rms": 0.06912,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/hurt.wav",
+    "seconds": 0.3,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.26981,
+    "rms": 0.07729,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/menu.wav",
+    "seconds": 0.16,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.20624,
+    "rms": 0.05123,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_01.wav",
+    "seconds": 69.0,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.1667,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_02.wav",
+    "seconds": 72.368,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.16151,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_03.wav",
+    "seconds": 76.111,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.15743,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_04.wav",
+    "seconds": 66.935,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.162,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_05.wav",
+    "seconds": 73.571,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.16495,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_06.wav",
+    "seconds": 65.0,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.15559,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_07.wav",
+    "seconds": 78.846,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.16542,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_08.wav",
+    "seconds": 70.085,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.15076,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_09.wav",
+    "seconds": 67.951,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.16426,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/music/ocean_10.wav",
+    "seconds": 74.818,
+    "rate": 22050,
+    "channels": 1,
+    "peak": 0.68997,
+    "rms": 0.16004,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/nicole_bloop.wav",
+    "seconds": 0.7,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.36102,
+    "rms": 0.06814,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/nicole_dive.wav",
+    "seconds": 3.558,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.75995,
+    "rms": 0.09233,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/nicole_fish.wav",
+    "seconds": 2.821,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.75995,
+    "rms": 0.0701,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/nicole_nyam.wav",
+    "seconds": 3.186,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.75995,
+    "rms": 0.12037,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/nicole_playground.wav",
+    "seconds": 3.281,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.75995,
+    "rms": 0.07672,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/nicole_swim.wav",
+    "seconds": 3.066,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.75995,
+    "rms": 0.09127,
+    "clipped_samples": 0
+  },
+  {
+    "file": "app/assets/audio/sonar.wav",
+    "seconds": 0.85,
+    "rate": 44100,
+    "channels": 1,
+    "peak": 0.17584,
+    "rms": 0.05314,
+    "clipped_samples": 0
+  }
+]

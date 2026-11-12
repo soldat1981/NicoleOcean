@@ -1,0 +1,1 @@
+11 chapters; 88 seconds; 504x960; 30 fps; real Game.update at 60 Hz; real OceanView renderer; staged fish and cooldowns; visitors/environmental events deferred to focus on home defence; simulated hero deaths: 0

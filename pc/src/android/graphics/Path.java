@@ -1,0 +1,2 @@
+package android.graphics;
+public class Path {final java.awt.geom.Path2D.Float value=new java.awt.geom.Path2D.Float();public void reset(){value.reset();}public void moveTo(float x,float y){value.moveTo(x,y);}public void lineTo(float x,float y){value.lineTo(x,y);}public void quadTo(float a,float b,float c,float d){value.quadTo(a,b,c,d);}public void cubicTo(float a,float b,float c,float d,float e,float f){value.curveTo(a,b,c,d,e,f);}public void close(){value.closePath();}}

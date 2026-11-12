@@ -1,0 +1,10 @@
+test_meow_envelopes (__main__.AssetTest) ... ok
+test_music_manifest (__main__.AssetTest) ... ok
+test_packaged_assets (__main__.AssetTest) ... ok
+test_pcm_assets (__main__.AssetTest) ... ok
+test_png_headers (__main__.AssetTest) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 3.062s
+
+OK
